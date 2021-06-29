@@ -1,0 +1,8 @@
+{
+    "name": "My Express App - Testing",
+    "mail": {
+        "host": "dev-mail-server"
+    },
+    "jwtPrivateKey": "1234",
+    "db": "mongodb://localhost/vidly_tests"
+}

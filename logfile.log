@@ -1,0 +1,558 @@
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to vidly DB...","level":"info"}
+{"message":"Application Name: My Express App - Development","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"level":"error","message":"Cannot read property 'split' of undefined Cannot read property 'split' of undefined","stack":"TypeError: Cannot read property 'split' of undefined\n    at Object.<anonymous>.module.exports (C:\\Users\\Colby\\Documents\\node-course\\vidly\\middleware\\auth.js:5:19)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"level":"error","message":"Cannot read property 'split' of undefined Cannot read property 'split' of undefined","stack":"TypeError: Cannot read property 'split' of undefined\n    at Object.<anonymous>.module.exports (C:\\Users\\Colby\\Documents\\node-course\\vidly\\middleware\\auth.js:5:19)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"level":"error","message":"Cannot read property 'split' of undefined Cannot read property 'split' of undefined","stack":"TypeError: Cannot read property 'split' of undefined\n    at Object.<anonymous>.module.exports (C:\\Users\\Colby\\Documents\\node-course\\vidly\\middleware\\auth.js:5:19)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"level":"error","message":"Cannot read property 'split' of undefined Cannot read property 'split' of undefined","stack":"TypeError: Cannot read property 'split' of undefined\n    at Object.<anonymous>.module.exports (C:\\Users\\Colby\\Documents\\node-course\\vidly\\middleware\\auth.js:5:19)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"level":"error","message":"Cannot read property 'split' of undefined Cannot read property 'split' of undefined","stack":"TypeError: Cannot read property 'split' of undefined\n    at Object.<anonymous>.module.exports (C:\\Users\\Colby\\Documents\\node-course\\vidly\\middleware\\auth.js:5:19)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"level":"error","message":"Cannot read property 'split' of undefined Cannot read property 'split' of undefined","stack":"TypeError: Cannot read property 'split' of undefined\n    at Object.<anonymous>.module.exports (C:\\Users\\Colby\\Documents\\node-course\\vidly\\middleware\\auth.js:5:19)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Colby\\Documents\\node-course\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Application Name: My Express App - Testing","level":"info"}
+{"message":"Mail Server: dev-mail-server","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
