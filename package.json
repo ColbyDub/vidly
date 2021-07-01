@@ -10,8 +10,8 @@
   },
   "engines": {
     "node": "14.17.0"
-  }
-  "author": "",
+  },
+  "author": "Colby Wall",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
