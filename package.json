@@ -5,22 +5,29 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "test": "jest --watchAll --verbose --coverage --detectOpenHandles --runInBand"
+    "test": "jest --watchAll --verbose --runInBand",
+    "start": "node index.js"
   },
+  "engines": {
+    "node": "14.17.0"
+  }
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
+    "compression": "^1.7.4",
     "config": "^3.3.6",
     "debug": "^2.6.9",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "fawn": "^2.1.5",
+    "helmet": "^4.6.0",
     "jest": "^27.0.6",
     "joi": "^17.4.0",
     "joi-objectid": "^3.0.1",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "mongoose": "^5.12.14",
     "pug": "^3.0.2",
     "winston": "^3.3.3",

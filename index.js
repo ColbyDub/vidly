@@ -8,6 +8,7 @@ require('./startup/db')();
 require('./startup/logging')();
 require('./startup/config')();
 require('./startup/validation')();
+reuire('./startup/prod')(app);
 
 //Port and listener
 const port = process.env.PORT || 3000;

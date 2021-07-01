@@ -38,4 +38,4 @@ function validateResponse(movie){
 }
 
 exports.Movie = Movie;
-exports.validate = validateResponse;
+exports.validateMovie = validateResponse;

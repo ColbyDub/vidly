@@ -43,4 +43,4 @@ function validateResponse(user){
 }
 
 exports.User = User;
-exports.validate = validateResponse;
+exports.validateUser = validateResponse;
