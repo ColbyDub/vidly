@@ -20,7 +20,7 @@ router.get('/:id', validateObjectId, async (req, res) => {
     else res.send(genre);
 });
 
-router.post('/', [auth,validate(validateGenre)], async (req, res) => {
+router.post('/', [auth, validate(validateGenre)], async (req, res) => {
     const genre = new Genre({ name: req.body.name });
 
     await genre.save();

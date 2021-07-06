@@ -7,7 +7,7 @@ let server;
 describe('/api/genres', () => {
     beforeEach(() => { server = require('../../index'); });
     afterEach(async () => { 
-        await Genre.remove({});
+        await Genre.deleteMany({});
         await server.close();
      });
 
@@ -23,7 +23,6 @@ describe('/api/genres', () => {
             expect(res.status).toBe(200);
             expect(res.body.some(g => g.name === 'genre1')).toBeTruthy();
             expect(res.body.some(g => g.name === 'genre2')).toBeTruthy();
-
         });
     });
     describe('Get /:id', () => {
