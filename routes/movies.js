@@ -34,14 +34,8 @@ router.post('/', [auth, validate(validateMovie)], async (req, res) => {
         dailyRentalRate: req.body.dailyRentalRate
     });
 
-    try{
-        await movie.save();
-        res.send(movie);
-    }
-    catch(ex){
-        for(field in ex.errors)
-            console.log(ex.errors[field].message);
-    }
+    await movie.save();
+    res.send(movie);
 });
 
 router.put('/:id',[auth, validateObjectId, validate(validateMovie)], async (req, res) => {
@@ -56,21 +50,18 @@ router.put('/:id',[auth, validateObjectId, validate(validateMovie)], async (req,
         },
         numberInStock: req.body.numberInStock,
         dailyRentalRate: req.body.dailyRentalRate
-        
-    },{ new: true });
+    },
+    { new: true });
 
     if(!movie)res.status(404).send("Movie with the given ID was not found");
-
-
-    res.send(movie);
+    else res.send(movie);
 })
 
 router.delete('/:id', [auth, admin, validateObjectId], async (req, res) => {
     const movie = await Movie.findByIdAndRemove(req.params.id);
 
     if(!movie)res.status(404).send("Movie with the given ID was not found");
-
-    res.send(movie);
+    else res.send(movie);
 });
 
 module.exports = router;

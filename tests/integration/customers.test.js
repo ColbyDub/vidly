@@ -225,7 +225,7 @@ describe('/api/cutomers', () => {
             const custInDb = await Customer.findById(id);
             expect(custInDb).toBeNull();
         });
-        it('should return the deleted customer if successfull', async () => {
+        it('should return the deleted customer if successful', async () => {
             const res = await exec();
             expect(res.body).toHaveProperty('_id',cust._id.toHexString())
             expect(res.body).toHaveProperty('name',cust.name);
