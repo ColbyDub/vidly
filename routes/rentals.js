@@ -6,6 +6,7 @@ const { Customer } = require('../models/customer');
 const { Movie } = require('../models/movie');
 const validate = require('../middleware/validate');
 const auth = require('../middleware/auth');
+const validateObjectid = require('../middleware/validateObjectid');
 const router = express.Router();
 
 Fawn.init(mongoose);
@@ -15,8 +16,8 @@ router.get('/', async (req, res) => {
     res.send(rentals);
 });
 
-router.get('/:id', async (req, res) => {
-    const rental = await Rental.findById(req.body.id);
+router.get('/:id', validateObjectid, async (req, res) => {
+    const rental = await Rental.findById(req.params.id);
     if(!rental)res.status(404).send("Rental with the given ID was not found");
     else res.send(rental);
 });
@@ -27,7 +28,6 @@ router.post('/', [auth, validate(validateRental)], async (req, res) => {
 
     const movie = await Movie.findById(req.body.movieId);
     if(!movie) return res.status(400).send('Invalid movie id');
-    console.log(movie);
 
     if(movie.numberInStock == 0) return res.status(400).send('Movie out of stock');
 
@@ -46,12 +46,14 @@ router.post('/', [auth, validate(validateRental)], async (req, res) => {
 
 
     try{
-        new Fawn.Task()
+        await new Fawn.Task()
             .save('rentals', rental)
-            .update('movies', { _id: movie._id }, {
+            .update('movies', { _id: mongoose.Types.ObjectId(movie._id) },
+            {
                 $inc: { numberInStock: -1 }
             })
-            .run();
+            .run({useMongoose: true});
+
         res.send(rental);
     }
     catch(ex){
