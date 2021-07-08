@@ -5,7 +5,6 @@ const movies = require('../routes/movies');
 const rentals = require('../routes/rentals');
 const users = require('../routes/users');
 const auth = require('../routes/auth');
-const home = require('../routes/home');
 const returns = require('../routes/returns');
 const error = require('../middleware/error');
 
